@@ -54,6 +54,10 @@ google_analytics:
 goatcounter:
   id: jbz9p8rb
 
+# Pageviews settings
+pageviews:
+  provider: goatcounter # now only supports 'goatcounter'
+
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
