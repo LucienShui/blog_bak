@@ -87,4 +87,4 @@ int main() {
 ```
 
 
-  [1]: img_0073.jpg
+  [1]: assets/img/posts/2018/06/13/2018-06-13-codeforces_989c_amistofflorescence_si_wei/img_0073.jpg

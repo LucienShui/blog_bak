@@ -86,5 +86,5 @@ int f(int x) {
 证毕。
 
 
-  [1]: cao_zuo_xi_tong_zuo_ye_.png
-  [2]: cao_zuo_xi_tong_zuo_ye_1_.png
+  [1]: assets/img/posts/2018/10/11/2018-10-11-yi_duan_a_li_bi_shi_dai_ma_de_xia_fen_xi/cao_zuo_xi_tong_zuo_ye_.png
+  [2]: assets/img/posts/2018/10/11/2018-10-11-yi_duan_a_li_bi_shi_dai_ma_de_xia_fen_xi/cao_zuo_xi_tong_zuo_ye_1_.png

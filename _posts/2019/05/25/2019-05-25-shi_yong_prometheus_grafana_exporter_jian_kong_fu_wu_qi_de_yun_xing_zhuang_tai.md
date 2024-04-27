@@ -197,35 +197,35 @@ systemctl restart grafana-server
 
 然后访问 `https://<YOUR_IP>:3000` ，默认的账号密码都是 `admin`。
 
-![默认的账号密码都是 admin](ping_mu_kuai_zhao_2019_05_2515.38.23.png)
+![默认的账号密码都是 admin](assets/img/posts/2019/05/25/2019-05-25-shi_yong_prometheus_grafana_exporter_jian_kong_fu_wu_qi_de_yun_xing_zhuang_tai/ping_mu_kuai_zhao_2019_05_2515.38.23.png)
 
 点击 `Add data source`。
 
-![点击 Add data source](ping_mu_kuai_zhao_2019_05_2515.39.14.png)
+![点击 Add data source](assets/img/posts/2019/05/25/2019-05-25-shi_yong_prometheus_grafana_exporter_jian_kong_fu_wu_qi_de_yun_xing_zhuang_tai/ping_mu_kuai_zhao_2019_05_2515.39.14.png)
 
 选择 `Prometheus`。
 
-![选择 Prometheus](ping_mu_kuai_zhao_2019_05_2515.39.24.png)
+![选择 Prometheus](assets/img/posts/2019/05/25/2019-05-25-shi_yong_prometheus_grafana_exporter_jian_kong_fu_wu_qi_de_yun_xing_zhuang_tai/ping_mu_kuai_zhao_2019_05_2515.39.24.png)
 
 `Http` $\rightarrow$ `URL` 中填入 `https://localhost:9090` ，也就是 `prometheus` 提供的接口。
 
 然后点击 `Save & Test`。
 
-![填入 https://localhost:9090](ping_mu_kuai_zhao_2019_05_2515.40.57.png)
+![填入 https://localhost:9090](assets/img/posts/2019/05/25/2019-05-25-shi_yong_prometheus_grafana_exporter_jian_kong_fu_wu_qi_de_yun_xing_zhuang_tai/ping_mu_kuai_zhao_2019_05_2515.40.57.png)
 
 然后把鼠标挪到左上角的 `+` 上，注意是挪上去，然后在弹出的菜单中点击 `Import`。
 
-![然后把鼠标挪到左上角的 + 上，然后在弹出的菜单中点击 Import](ping_mu_kuai_zhao_2019_05_2515.41.07.png)
+![然后把鼠标挪到左上角的 + 上，然后在弹出的菜单中点击 Import](assets/img/posts/2019/05/25/2019-05-25-shi_yong_prometheus_grafana_exporter_jian_kong_fu_wu_qi_de_yun_xing_zhuang_tai/ping_mu_kuai_zhao_2019_05_2515.41.07.png)
 
 然后我们在这里可以引入各种大神为各种 `Exporter` 写好的 `Dashboard` ，可以去 https://grafana.com/dashboards 自行搜寻，在这里我们用一名国人为 `node_exporter` 写的 `Dashboard` ，对应的主页为 https://grafana.com/dashboards/8919 。
 
 我们在 `Grafana.com Dashboard` 一栏中填入 `8919` ，然后点击一下旁边的空白处。
 
-![在 Grafana.com Dashboard 一栏中填入 8919 ，然后点击一下旁边的空白处](ping_mu_kuai_zhao_2019_05_2515.41.53.png)
+![在 Grafana.com Dashboard 一栏中填入 8919 ，然后点击一下旁边的空白处](assets/img/posts/2019/05/25/2019-05-25-shi_yong_prometheus_grafana_exporter_jian_kong_fu_wu_qi_de_yun_xing_zhuang_tai/ping_mu_kuai_zhao_2019_05_2515.41.53.png)
 
 点击空白处之后会自动导入对应的 `Dashboard` ，此时会让你设置数据来源，在 `Options` $\rightarrow$ `prometheus_111` 这里选择我们刚才添加的 `Prometheus` ，然后点击 `Import` 就可以了。
 
-![prometheus_111 这里选择我们刚才添加的 Prometheus ，然后点击 Import](ping_mu_kuai_zhao_2019_05_2515.42.39.png)
+![prometheus_111 这里选择我们刚才添加的 Prometheus ，然后点击 Import](assets/img/posts/2019/05/25/2019-05-25-shi_yong_prometheus_grafana_exporter_jian_kong_fu_wu_qi_de_yun_xing_zhuang_tai/ping_mu_kuai_zhao_2019_05_2515.42.39.png)
 
 #### 5.2.3 配置完成
 
@@ -304,4 +304,4 @@ systemctl restart prometheus
 可以观察到，`targets` 传入的是一个数组，`Prometheus` 会收集数组中的每个元素的 `metrics` ，然后 `Grafana` 再处理这些数据。
 
 
-  [1]: image.jpg
+  [1]: assets/img/posts/2019/05/25/2019-05-25-shi_yong_prometheus_grafana_exporter_jian_kong_fu_wu_qi_de_yun_xing_zhuang_tai/image.jpg

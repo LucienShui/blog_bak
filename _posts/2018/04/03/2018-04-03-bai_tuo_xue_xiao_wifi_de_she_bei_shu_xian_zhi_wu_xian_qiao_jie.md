@@ -22,4 +22,4 @@ img_path: /assets/img/posts/2018/04/03/2018-04-03-bai_tuo_xue_xiao_wifi_de_she_b
 ![屏幕快照 2018-04-03 15.06.55.png][1]
 
 
-  [1]: ping_mu_kuai_zhao_2018_04_0315.06.55.png
+  [1]: assets/img/posts/2018/04/03/2018-04-03-bai_tuo_xue_xiao_wifi_de_she_bei_shu_xian_zhi_wu_xian_qiao_jie/ping_mu_kuai_zhao_2018_04_0315.06.55.png

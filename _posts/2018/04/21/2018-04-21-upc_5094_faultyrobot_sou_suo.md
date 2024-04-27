@@ -120,4 +120,4 @@ int main() {
 ```
 
 
-  [1]: 20171204160448_35652.jpg
+  [1]: assets/img/posts/2018/04/21/2018-04-21-upc_5094_faultyrobot_sou_suo/20171204160448_35652.jpg

@@ -81,6 +81,6 @@ int main() {
 ```
 
 
-  [1]: 41.png.jpeg
-  [2]: 40.png.jpeg
-  [3]: 42.png.jpeg
+  [1]: assets/img/posts/2018/04/09/2018-04-09-p1140_xiang_si_ji_yin_dong_tai_gui_hua/41.png.jpeg
+  [2]: assets/img/posts/2018/04/09/2018-04-09-p1140_xiang_si_ji_yin_dong_tai_gui_hua/40.png.jpeg
+  [3]: assets/img/posts/2018/04/09/2018-04-09-p1140_xiang_si_ji_yin_dong_tai_gui_hua/42.png.jpeg

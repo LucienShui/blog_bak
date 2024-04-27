@@ -20,6 +20,6 @@ img_path: /assets/img/posts/2018/02/08/2018-02-08-chao_ji_ga_chaoji.ga_shang_xia
 ![IMG_5763.PNG][1]
 
 
-  [1]: img_5763.png
-  [2]: img_5761.png
-  [3]: img_5762.png
+  [1]: assets/img/posts/2018/02/08/2018-02-08-chao_ji_ga_chaoji.ga_shang_xian_le/img_5763.png
+  [2]: assets/img/posts/2018/02/08/2018-02-08-chao_ji_ga_chaoji.ga_shang_xian_le/img_5761.png
+  [3]: assets/img/posts/2018/02/08/2018-02-08-chao_ji_ga_chaoji.ga_shang_xian_le/img_5762.png

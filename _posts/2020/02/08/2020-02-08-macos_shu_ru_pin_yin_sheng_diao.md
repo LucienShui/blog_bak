@@ -40,4 +40,4 @@ img_path: /assets/img/posts/2020/02/08/2020-02-08-macos_shu_ru_pin_yin_sheng_dia
 | `option` +  ````` | `ù` |
 
 
-[切换输入法]: qie_huan_shu_ru_fa_.png
+[切换输入法]: assets/img/posts/2020/02/08/2020-02-08-macos_shu_ru_pin_yin_sheng_diao/qie_huan_shu_ru_fa_.png

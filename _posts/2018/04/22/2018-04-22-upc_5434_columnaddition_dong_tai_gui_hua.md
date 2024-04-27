@@ -99,5 +99,5 @@ int main() {
 ```
 
 
-  [1]: 20180119160853_82068.jpg
-  [2]: 20180119160903_49478.jpg
+  [1]: assets/img/posts/2018/04/22/2018-04-22-upc_5434_columnaddition_dong_tai_gui_hua/20180119160853_82068.jpg
+  [2]: assets/img/posts/2018/04/22/2018-04-22-upc_5434_columnaddition_dong_tai_gui_hua/20180119160903_49478.jpg

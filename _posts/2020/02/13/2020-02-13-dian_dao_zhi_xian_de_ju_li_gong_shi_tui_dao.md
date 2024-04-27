@@ -66,4 +66,4 @@ $$d = \frac{ | Ax_0 + By_0 + C | }{ \sqrt{ A^2 + B^2 } } = \frac{ f(x_0, y_0) }{
 
 [this]: https://blog.lucien.ink/archives/495/
 [zhihu]: https://zhuanlan.zhihu.com/p/26307123
-[pic]: pic.png
+[pic]: assets/img/posts/2020/02/13/2020-02-13-dian_dao_zhi_xian_de_ju_li_gong_shi_tui_dao/pic.png

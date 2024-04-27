@@ -33,4 +33,4 @@ cover() {
 
 [this]: https://blog.lucien.ink/archives/520/
 [stackoverflow]: https://stackoverflow.com/questions/10516662/how-to-measure-test-coverage-in-go
-[screenshot]: jie_ping_2021_07_25_xia_wu_10.57.55.png
+[screenshot]: assets/img/posts/2021/07/25/2021-07-25-da_yin_gotest_de_dai_ma_fu_gai/jie_ping_2021_07_25_xia_wu_10.57.55.png

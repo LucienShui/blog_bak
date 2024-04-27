@@ -116,4 +116,4 @@ int main() {
 ```
 
 
-  [1]: 20170718192012_14995.jpg
+  [1]: assets/img/posts/2018/01/29/2018-01-29-upcoj_4148_luo_gu_p2566_wei_dou_dou_zhuang_ya_spfa/20170718192012_14995.jpg

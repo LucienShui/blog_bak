@@ -194,4 +194,4 @@ int main() {
 ```
 
 
-  [1]: 20171230170204_57299.jpg
+  [1]: assets/img/posts/2018/05/02/2018-05-02-upc_5252_triangletohexagon_ji_suan_ji_he/20171230170204_57299.jpg

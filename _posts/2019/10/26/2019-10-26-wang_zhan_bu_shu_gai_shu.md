@@ -180,15 +180,15 @@ Typecho 的官网：[typecho.org][typecho]
   [huawei_cloud]: https://www.bt.cn/bbs/thread-3923-1-1.html
   [typecho]: https://typecho.org
 
-  [installBt.png]: installbt.png
-  [installBtFinished.png]: installbtfinished.png
-  [bt.png]: bt.png
-  [lnmp.png]: lnmp.png
-  [lnmpInstalling.png]: lnmpinstalling.png
-  [webCreation.png]: webcreation.png
-  [webSetting.png]: websetting.png
-  [download.png]: download.png
-  [changeFolder.png]: changefolder.png
-  [changeMysql.png]: changemysql.png
-  [configMySQL.png]: configmysql.png
-  [typechoRewrite.png]: typechorewrite.png
+  [installBt.png]: assets/img/posts/2019/10/26/2019-10-26-wang_zhan_bu_shu_gai_shu/installbt.png
+  [installBtFinished.png]: assets/img/posts/2019/10/26/2019-10-26-wang_zhan_bu_shu_gai_shu/installbtfinished.png
+  [bt.png]: assets/img/posts/2019/10/26/2019-10-26-wang_zhan_bu_shu_gai_shu/bt.png
+  [lnmp.png]: assets/img/posts/2019/10/26/2019-10-26-wang_zhan_bu_shu_gai_shu/lnmp.png
+  [lnmpInstalling.png]: assets/img/posts/2019/10/26/2019-10-26-wang_zhan_bu_shu_gai_shu/lnmpinstalling.png
+  [webCreation.png]: assets/img/posts/2019/10/26/2019-10-26-wang_zhan_bu_shu_gai_shu/webcreation.png
+  [webSetting.png]: assets/img/posts/2019/10/26/2019-10-26-wang_zhan_bu_shu_gai_shu/websetting.png
+  [download.png]: assets/img/posts/2019/10/26/2019-10-26-wang_zhan_bu_shu_gai_shu/download.png
+  [changeFolder.png]: assets/img/posts/2019/10/26/2019-10-26-wang_zhan_bu_shu_gai_shu/changefolder.png
+  [changeMysql.png]: assets/img/posts/2019/10/26/2019-10-26-wang_zhan_bu_shu_gai_shu/changemysql.png
+  [configMySQL.png]: assets/img/posts/2019/10/26/2019-10-26-wang_zhan_bu_shu_gai_shu/configmysql.png
+  [typechoRewrite.png]: assets/img/posts/2019/10/26/2019-10-26-wang_zhan_bu_shu_gai_shu/typechorewrite.png

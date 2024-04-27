@@ -112,4 +112,4 @@ int main() {
 ```
 
 
-  [1]: a2d4cd624dd499b913ad6a79275c24a29a066124.png
+  [1]: assets/img/posts/2018/05/01/2018-05-01-codeforces_976b_laracroftandthenewgame_si_wei/a2d4cd624dd499b913ad6a79275c24a29a066124.png

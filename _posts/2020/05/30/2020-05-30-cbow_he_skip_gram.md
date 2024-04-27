@@ -209,4 +209,4 @@ CBOW 同理，反向传播时会更新上下文里所有的词对应的权重。
 [this]: https://blog.lucien.ink/archives/501/
 [zhihu_url]: https://zhuanlan.zhihu.com/p/39562499
 [skip_gram_url]: https://zhuanlan.zhihu.com/p/27234078
-[model_network]: model_network.drawio.svg
+[model_network]: assets/img/posts/2020/05/30/2020-05-30-cbow_he_skip_gram/model_network.drawio.svg

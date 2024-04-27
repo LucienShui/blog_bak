@@ -125,11 +125,11 @@ $边集_2$ 的权重为路途时间，剩下所有边的权重为 $0$ 即可。
 [最小费用最大流][mcmf]，复杂度 $O(最大流 \times O(SPFA))$
 
 [this]: https://blog.lucien.ink/archives/506/
-[1.drawio.svg]: 1.drawio.svg
-[1.1.drawio.svg]: 1.1.drawio.svg
-[2.drawio.svg]: 2.drawio.svg
-[2.1.drawio.svg]: 2.1.drawio.svg
-[2.2.drawio.svg]: 2.2.drawio.svg
-[2.4.drawio.svg]: 2.4.drawio.svg
+[1.drawio.svg]: assets/img/posts/2020/10/12/2020-10-12-yi_lei_pi_pei_wen_ti_de_qiu_jie_ji_ying_yong/1.drawio.svg
+[1.1.drawio.svg]: assets/img/posts/2020/10/12/2020-10-12-yi_lei_pi_pei_wen_ti_de_qiu_jie_ji_ying_yong/1.1.drawio.svg
+[2.drawio.svg]: assets/img/posts/2020/10/12/2020-10-12-yi_lei_pi_pei_wen_ti_de_qiu_jie_ji_ying_yong/2.drawio.svg
+[2.1.drawio.svg]: assets/img/posts/2020/10/12/2020-10-12-yi_lei_pi_pei_wen_ti_de_qiu_jie_ji_ying_yong/2.1.drawio.svg
+[2.2.drawio.svg]: assets/img/posts/2020/10/12/2020-10-12-yi_lei_pi_pei_wen_ti_de_qiu_jie_ji_ying_yong/2.2.drawio.svg
+[2.4.drawio.svg]: assets/img/posts/2020/10/12/2020-10-12-yi_lei_pi_pei_wen_ti_de_qiu_jie_ji_ying_yong/2.4.drawio.svg
 [dinic]: https://github.com/UPCACM/DuckKnowNothing/blob/master/src/GraphAlgorithm/%E7%BD%91%E7%BB%9C%E6%B5%81/O(V%5E2E)-Dinic.cpp
 [mcmf]: https://github.com/UPCACM/DuckKnowNothing/blob/master/src/GraphAlgorithm/%E7%BD%91%E7%BB%9C%E6%B5%81/MCMF.cpp

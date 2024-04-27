@@ -121,4 +121,4 @@ int main() {
 ```
 
 
-  [1]: 20180127200402_88520.jpg
+  [1]: assets/img/posts/2018/04/05/2018-04-05-upc_5556_blackandwhite_sao_miao_xian_amp_xian_duan_shu/20180127200402_88520.jpg

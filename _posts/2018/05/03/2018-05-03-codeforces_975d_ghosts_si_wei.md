@@ -126,4 +126,4 @@ int main() {
 ```
 
 
-  [1]: 9143da6576fc0dc25cd0151da083642b4917796a.png
+  [1]: assets/img/posts/2018/05/03/2018-05-03-codeforces_975d_ghosts_si_wei/9143da6576fc0dc25cd0151da083642b4917796a.png

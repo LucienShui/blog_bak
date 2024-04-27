@@ -145,4 +145,4 @@ int main() {
 ```
 
 
-  [1]: 20180128180734_31937.png
+  [1]: assets/img/posts/2018/04/04/2018-04-04-upc_5579_bbqhard_si_wei_amp_zu_he_shu_xue_amp_dong_tai_gui_hua/20180128180734_31937.png

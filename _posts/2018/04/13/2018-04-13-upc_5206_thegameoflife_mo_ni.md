@@ -136,4 +136,4 @@ int main() {
 ```
 
 
-  [1]: 20171222111227_87204.jpg
+  [1]: assets/img/posts/2018/04/13/2018-04-13-upc_5206_thegameoflife_mo_ni/20171222111227_87204.jpg

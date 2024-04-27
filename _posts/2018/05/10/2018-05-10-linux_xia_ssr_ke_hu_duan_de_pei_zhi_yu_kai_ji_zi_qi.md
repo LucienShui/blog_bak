@@ -94,4 +94,4 @@ SwitchyOmega.crx
 &emsp;&emsp;打开`SwitchyOmega`的设置页面，跳过设置向导，点击导入/导出、在线恢复，填入`https://file.lucien.ink/SwitchyOmega/OmegaOptions.bak`，恢复完成后点击应用选项。
 
 
-  [1]: screenshotfrom2018_06_1800_15_23.png
+  [1]: assets/img/posts/2018/05/10/2018-05-10-linux_xia_ssr_ke_hu_duan_de_pei_zhi_yu_kai_ji_zi_qi/screenshotfrom2018_06_1800_15_23.png

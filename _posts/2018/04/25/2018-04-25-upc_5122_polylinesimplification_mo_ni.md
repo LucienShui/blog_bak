@@ -115,4 +115,4 @@ int main() {
 ```
 
 
-  [1]: 20171207151120_15764.jpg
+  [1]: assets/img/posts/2018/04/25/2018-04-25-upc_5122_polylinesimplification_mo_ni/20171207151120_15764.jpg

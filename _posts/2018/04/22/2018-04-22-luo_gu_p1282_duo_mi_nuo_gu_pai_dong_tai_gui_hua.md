@@ -73,4 +73,4 @@ int main() {
 ```
 
 
-  [1]: 91.png
+  [1]: assets/img/posts/2018/04/22/2018-04-22-luo_gu_p1282_duo_mi_nuo_gu_pai_dong_tai_gui_hua/91.png

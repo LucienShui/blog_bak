@@ -87,5 +87,5 @@ int main() {
 ```
 
 
-  [1]: 20180116202950_35491.jpg
-  [2]: 20180116203446_99214.jpg
+  [1]: assets/img/posts/2018/02/01/2018-02-01-luo_gu_p3942_ru_zhen_qu_er_wei_ban_k_bei_qu_jian/20180116202950_35491.jpg
+  [2]: assets/img/posts/2018/02/01/2018-02-01-luo_gu_p3942_ru_zhen_qu_er_wei_ban_k_bei_qu_jian/20180116203446_99214.jpg

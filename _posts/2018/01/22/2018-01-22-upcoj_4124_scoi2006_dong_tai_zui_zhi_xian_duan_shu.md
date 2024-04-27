@@ -146,5 +146,5 @@ int main() {
 ```
 
 
-  [1]: 20170713155700_42386.jpg
-  [2]: 20170713155708_19070.jpg
+  [1]: assets/img/posts/2018/01/22/2018-01-22-upcoj_4124_scoi2006_dong_tai_zui_zhi_xian_duan_shu/20170713155700_42386.jpg
+  [2]: assets/img/posts/2018/01/22/2018-01-22-upcoj_4124_scoi2006_dong_tai_zui_zhi_xian_duan_shu/20170713155708_19070.jpg
