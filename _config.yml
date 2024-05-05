@@ -113,7 +113,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "LucienShui/lucienshui.github.io"
+    repo: "LucienShui/blog"
     repo_id: "R_kgDOLzQpuA"
     category: "Announcements"
     category_id: "DIC_kwDOLzQpuM4CfBlT"
